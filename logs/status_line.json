@@ -1,0 +1,582 @@
+[
+  {
+    "timestamp": "2025-09-30T11:07:39.162766",
+    "input_data": {
+      "session_id": "b8a58ef8-1b5e-4c97-a2ac-acbbff762ae5",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern/b8a58ef8-1b5e-4c97-a2ac-acbbff762ae5.jsonl",
+      "cwd": "/Users/tjmcgovern/fakesite",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/fakesite",
+        "project_dir": "/Users/tjmcgovern"
+      },
+      "version": "2.0.1",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.5294137999999998,
+        "total_duration_ms": 539915,
+        "total_api_duration_ms": 262317,
+        "total_lines_added": 535,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.5]\u001b[0m | \u001b[34m\ud83d\udcc1 fakesite\u001b[0m | \u001b[32m\ud83c\udf3f master\u001b[0m | \u001b[90mv2.0.1\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-30T11:07:44.847568",
+    "input_data": {
+      "session_id": "b8a58ef8-1b5e-4c97-a2ac-acbbff762ae5",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern/b8a58ef8-1b5e-4c97-a2ac-acbbff762ae5.jsonl",
+      "cwd": "/Users/tjmcgovern/fakesite",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/fakesite",
+        "project_dir": "/Users/tjmcgovern"
+      },
+      "version": "2.0.1",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.5513872999999998,
+        "total_duration_ms": 545596,
+        "total_api_duration_ms": 268996,
+        "total_lines_added": 535,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.5]\u001b[0m | \u001b[34m\ud83d\udcc1 fakesite\u001b[0m | \u001b[32m\ud83c\udf3f master \u00b11\u001b[0m | \u001b[90mv2.0.1\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-30T11:07:48.723593",
+    "input_data": {
+      "session_id": "b8a58ef8-1b5e-4c97-a2ac-acbbff762ae5",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern/b8a58ef8-1b5e-4c97-a2ac-acbbff762ae5.jsonl",
+      "cwd": "/Users/tjmcgovern/fakesite",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/fakesite",
+        "project_dir": "/Users/tjmcgovern"
+      },
+      "version": "2.0.1",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.5711484499999998,
+        "total_duration_ms": 549474,
+        "total_api_duration_ms": 272651,
+        "total_lines_added": 535,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.5]\u001b[0m | \u001b[34m\ud83d\udcc1 fakesite\u001b[0m | \u001b[32m\ud83c\udf3f master \u00b11\u001b[0m | \u001b[90mv2.0.1\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-30T11:07:50.314897",
+    "input_data": {
+      "session_id": "b8a58ef8-1b5e-4c97-a2ac-acbbff762ae5",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern/b8a58ef8-1b5e-4c97-a2ac-acbbff762ae5.jsonl",
+      "cwd": "/Users/tjmcgovern/fakesite",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/fakesite",
+        "project_dir": "/Users/tjmcgovern"
+      },
+      "version": "2.0.1",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.5729556499999998,
+        "total_duration_ms": 551069,
+        "total_api_duration_ms": 275112,
+        "total_lines_added": 535,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.5]\u001b[0m | \u001b[34m\ud83d\udcc1 fakesite\u001b[0m | \u001b[32m\ud83c\udf3f master \u00b11\u001b[0m | \u001b[90mv2.0.1\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-30T11:07:51.817325",
+    "input_data": {
+      "session_id": "b8a58ef8-1b5e-4c97-a2ac-acbbff762ae5",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern/b8a58ef8-1b5e-4c97-a2ac-acbbff762ae5.jsonl",
+      "cwd": "/Users/tjmcgovern/fakesite",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/fakesite",
+        "project_dir": "/Users/tjmcgovern"
+      },
+      "version": "2.0.1",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.5729556499999998,
+        "total_duration_ms": 552571,
+        "total_api_duration_ms": 275112,
+        "total_lines_added": 535,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.5]\u001b[0m | \u001b[34m\ud83d\udcc1 fakesite\u001b[0m | \u001b[32m\ud83c\udf3f master \u00b11\u001b[0m | \u001b[90mv2.0.1\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-30T11:07:55.835907",
+    "input_data": {
+      "session_id": "b8a58ef8-1b5e-4c97-a2ac-acbbff762ae5",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern/b8a58ef8-1b5e-4c97-a2ac-acbbff762ae5.jsonl",
+      "cwd": "/Users/tjmcgovern/fakesite",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/fakesite",
+        "project_dir": "/Users/tjmcgovern"
+      },
+      "version": "2.0.1",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.5919843499999998,
+        "total_duration_ms": 556585,
+        "total_api_duration_ms": 278868,
+        "total_lines_added": 535,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.5]\u001b[0m | \u001b[34m\ud83d\udcc1 fakesite\u001b[0m | \u001b[32m\ud83c\udf3f master \u00b11\u001b[0m | \u001b[90mv2.0.1\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-30T11:08:14.934613",
+    "input_data": {
+      "session_id": "b8a58ef8-1b5e-4c97-a2ac-acbbff762ae5",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern/b8a58ef8-1b5e-4c97-a2ac-acbbff762ae5.jsonl",
+      "cwd": "/Users/tjmcgovern/fakesite",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/fakesite",
+        "project_dir": "/Users/tjmcgovern"
+      },
+      "version": "2.0.1",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.5925883499999999,
+        "total_duration_ms": 575677,
+        "total_api_duration_ms": 279679,
+        "total_lines_added": 535,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.5]\u001b[0m | \u001b[34m\ud83d\udcc1 fakesite\u001b[0m | \u001b[32m\ud83c\udf3f master \u00b11\u001b[0m | \u001b[90mv2.0.1\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-30T11:08:15.227586",
+    "input_data": {
+      "session_id": "b8a58ef8-1b5e-4c97-a2ac-acbbff762ae5",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern/b8a58ef8-1b5e-4c97-a2ac-acbbff762ae5.jsonl",
+      "cwd": "/Users/tjmcgovern/fakesite",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/fakesite",
+        "project_dir": "/Users/tjmcgovern"
+      },
+      "version": "2.0.1",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.5925883499999999,
+        "total_duration_ms": 575977,
+        "total_api_duration_ms": 279679,
+        "total_lines_added": 535,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.5]\u001b[0m | \u001b[34m\ud83d\udcc1 fakesite\u001b[0m | \u001b[32m\ud83c\udf3f master \u00b11\u001b[0m | \u001b[90mv2.0.1\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-30T11:08:23.796895",
+    "input_data": {
+      "session_id": "b8a58ef8-1b5e-4c97-a2ac-acbbff762ae5",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern/b8a58ef8-1b5e-4c97-a2ac-acbbff762ae5.jsonl",
+      "cwd": "/Users/tjmcgovern/fakesite",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/fakesite",
+        "project_dir": "/Users/tjmcgovern"
+      },
+      "version": "2.0.1",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.6133074499999999,
+        "total_duration_ms": 584551,
+        "total_api_duration_ms": 286395,
+        "total_lines_added": 535,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.5]\u001b[0m | \u001b[34m\ud83d\udcc1 fakesite\u001b[0m | \u001b[32m\ud83c\udf3f master \u00b11\u001b[0m | \u001b[90mv2.0.1\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-30T11:08:29.295211",
+    "input_data": {
+      "session_id": "b8a58ef8-1b5e-4c97-a2ac-acbbff762ae5",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern/b8a58ef8-1b5e-4c97-a2ac-acbbff762ae5.jsonl",
+      "cwd": "/Users/tjmcgovern/fakesite",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/fakesite",
+        "project_dir": "/Users/tjmcgovern"
+      },
+      "version": "2.0.1",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.6133074499999999,
+        "total_duration_ms": 590041,
+        "total_api_duration_ms": 286395,
+        "total_lines_added": 535,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.5]\u001b[0m | \u001b[34m\ud83d\udcc1 fakesite\u001b[0m | \u001b[32m\ud83c\udf3f master \u00b11\u001b[0m | \u001b[90mv2.0.1\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-30T11:36:35.373237",
+    "input_data": {
+      "session_id": "b8a58ef8-1b5e-4c97-a2ac-acbbff762ae5",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern/b8a58ef8-1b5e-4c97-a2ac-acbbff762ae5.jsonl",
+      "cwd": "/Users/tjmcgovern/fakesite",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/fakesite",
+        "project_dir": "/Users/tjmcgovern"
+      },
+      "version": "2.0.1",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.6331705999999999,
+        "total_duration_ms": 2276103,
+        "total_api_duration_ms": 291892,
+        "total_lines_added": 535,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.5]\u001b[0m | \u001b[34m\ud83d\udcc1 fakesite\u001b[0m | \u001b[32m\ud83c\udf3f master \u00b11\u001b[0m | \u001b[90mv2.0.1\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-30T11:36:35.652794",
+    "input_data": {
+      "session_id": "b8a58ef8-1b5e-4c97-a2ac-acbbff762ae5",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern/b8a58ef8-1b5e-4c97-a2ac-acbbff762ae5.jsonl",
+      "cwd": "/Users/tjmcgovern/fakesite",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/fakesite",
+        "project_dir": "/Users/tjmcgovern"
+      },
+      "version": "2.0.1",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.6331705999999999,
+        "total_duration_ms": 2276404,
+        "total_api_duration_ms": 291892,
+        "total_lines_added": 535,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.5]\u001b[0m | \u001b[34m\ud83d\udcc1 fakesite\u001b[0m | \u001b[32m\ud83c\udf3f master \u00b11\u001b[0m | \u001b[90mv2.0.1\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-30T11:36:43.259853",
+    "input_data": {
+      "session_id": "b8a58ef8-1b5e-4c97-a2ac-acbbff762ae5",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern/b8a58ef8-1b5e-4c97-a2ac-acbbff762ae5.jsonl",
+      "cwd": "/Users/tjmcgovern/fakesite",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/fakesite",
+        "project_dir": "/Users/tjmcgovern"
+      },
+      "version": "2.0.1",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.8463721,
+        "total_duration_ms": 2284009,
+        "total_api_duration_ms": 297220,
+        "total_lines_added": 535,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.5]\u001b[0m | \u001b[34m\ud83d\udcc1 fakesite\u001b[0m | \u001b[32m\ud83c\udf3f master \u00b11\u001b[0m | \u001b[90mv2.0.1\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-30T11:36:49.724313",
+    "input_data": {
+      "session_id": "b8a58ef8-1b5e-4c97-a2ac-acbbff762ae5",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern/b8a58ef8-1b5e-4c97-a2ac-acbbff762ae5.jsonl",
+      "cwd": "/Users/tjmcgovern/fakesite",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/fakesite",
+        "project_dir": "/Users/tjmcgovern"
+      },
+      "version": "2.0.1",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.8735520999999999,
+        "total_duration_ms": 2290474,
+        "total_api_duration_ms": 302101,
+        "total_lines_added": 544,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.5]\u001b[0m | \u001b[34m\ud83d\udcc1 fakesite\u001b[0m | \u001b[32m\ud83c\udf3f master \u00b12\u001b[0m | \u001b[90mv2.0.1\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-30T11:36:54.965783",
+    "input_data": {
+      "session_id": "b8a58ef8-1b5e-4c97-a2ac-acbbff762ae5",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern/b8a58ef8-1b5e-4c97-a2ac-acbbff762ae5.jsonl",
+      "cwd": "/Users/tjmcgovern/fakesite",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/fakesite",
+        "project_dir": "/Users/tjmcgovern"
+      },
+      "version": "2.0.1",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.89486605,
+        "total_duration_ms": 2295714,
+        "total_api_duration_ms": 305677,
+        "total_lines_added": 544,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.5]\u001b[0m | \u001b[34m\ud83d\udcc1 fakesite\u001b[0m | \u001b[32m\ud83c\udf3f master \u00b12\u001b[0m | \u001b[90mv2.0.1\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-30T11:37:01.403271",
+    "input_data": {
+      "session_id": "b8a58ef8-1b5e-4c97-a2ac-acbbff762ae5",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern/b8a58ef8-1b5e-4c97-a2ac-acbbff762ae5.jsonl",
+      "cwd": "/Users/tjmcgovern/fakesite",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/fakesite",
+        "project_dir": "/Users/tjmcgovern"
+      },
+      "version": "2.0.1",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.91845385,
+        "total_duration_ms": 2302156,
+        "total_api_duration_ms": 310499,
+        "total_lines_added": 553,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.5]\u001b[0m | \u001b[34m\ud83d\udcc1 fakesite\u001b[0m | \u001b[32m\ud83c\udf3f master \u00b13\u001b[0m | \u001b[90mv2.0.1\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-30T11:37:07.794014",
+    "input_data": {
+      "session_id": "b8a58ef8-1b5e-4c97-a2ac-acbbff762ae5",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern/b8a58ef8-1b5e-4c97-a2ac-acbbff762ae5.jsonl",
+      "cwd": "/Users/tjmcgovern/fakesite",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/fakesite",
+        "project_dir": "/Users/tjmcgovern"
+      },
+      "version": "2.0.1",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.94282795,
+        "total_duration_ms": 2308545,
+        "total_api_duration_ms": 315255,
+        "total_lines_added": 562,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.5]\u001b[0m | \u001b[34m\ud83d\udcc1 fakesite\u001b[0m | \u001b[32m\ud83c\udf3f master \u00b14\u001b[0m | \u001b[90mv2.0.1\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-30T11:37:13.819276",
+    "input_data": {
+      "session_id": "b8a58ef8-1b5e-4c97-a2ac-acbbff762ae5",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern/b8a58ef8-1b5e-4c97-a2ac-acbbff762ae5.jsonl",
+      "cwd": "/Users/tjmcgovern/fakesite",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/fakesite",
+        "project_dir": "/Users/tjmcgovern"
+      },
+      "version": "2.0.1",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.9677713,
+        "total_duration_ms": 2314571,
+        "total_api_duration_ms": 319607,
+        "total_lines_added": 571,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.5]\u001b[0m | \u001b[34m\ud83d\udcc1 fakesite\u001b[0m | \u001b[32m\ud83c\udf3f master \u00b15\u001b[0m | \u001b[90mv2.0.1\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-30T11:37:20.556699",
+    "input_data": {
+      "session_id": "b8a58ef8-1b5e-4c97-a2ac-acbbff762ae5",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern/b8a58ef8-1b5e-4c97-a2ac-acbbff762ae5.jsonl",
+      "cwd": "/Users/tjmcgovern/fakesite",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/fakesite",
+        "project_dir": "/Users/tjmcgovern"
+      },
+      "version": "2.0.1",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 0.99259405,
+        "total_duration_ms": 2321306,
+        "total_api_duration_ms": 324562,
+        "total_lines_added": 580,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.5]\u001b[0m | \u001b[34m\ud83d\udcc1 fakesite\u001b[0m | \u001b[32m\ud83c\udf3f master \u00b16\u001b[0m | \u001b[90mv2.0.1\u001b[0m"
+  },
+  {
+    "timestamp": "2025-09-30T11:37:26.474722",
+    "input_data": {
+      "session_id": "b8a58ef8-1b5e-4c97-a2ac-acbbff762ae5",
+      "transcript_path": "/Users/tjmcgovern/.claude/projects/-Users-tjmcgovern/b8a58ef8-1b5e-4c97-a2ac-acbbff762ae5.jsonl",
+      "cwd": "/Users/tjmcgovern/fakesite",
+      "model": {
+        "id": "claude-sonnet-4-5-20250929",
+        "display_name": "Sonnet 4.5"
+      },
+      "workspace": {
+        "current_dir": "/Users/tjmcgovern/fakesite",
+        "project_dir": "/Users/tjmcgovern"
+      },
+      "version": "2.0.1",
+      "output_style": {
+        "name": "default"
+      },
+      "cost": {
+        "total_cost_usd": 1.01625295,
+        "total_duration_ms": 2327224,
+        "total_api_duration_ms": 330236,
+        "total_lines_added": 580,
+        "total_lines_removed": 0
+      },
+      "exceeds_200k_tokens": false
+    },
+    "status_line_output": "\u001b[36m[Sonnet 4.5]\u001b[0m | \u001b[34m\ud83d\udcc1 fakesite\u001b[0m | \u001b[32m\ud83c\udf3f master \u00b16\u001b[0m | \u001b[90mv2.0.1\u001b[0m"
+  }
+]
